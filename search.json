@@ -11,13 +11,13 @@
     "href": "index.html",
     "title": "Abschluss- und Projektarbeiten",
     "section": "",
-    "text": "Hier finden Sie eine Übersicht der aktuellen Abschluss- und Projektarbeiten von Prof. Schröder, Fakultät efi, OHM Technische Hochschule Nürnberg.\nSoweit nicht anders angegeben, können alle Themen als Bachelor- oder Masterarbeit bearbeitet werden, sowie als Projektarbeit."
+    "text": "Hier finden Sie eine Übersicht der aktuellen Abschluss- und Projektarbeiten des Labors für Mobile Robotik der TH Nürnberg\nSoweit nicht anders angegeben, können alle Themen als Bachelor- oder Masterarbeit bearbeitet werden, sowie als Projektarbeit."
   },
   {
     "objectID": "index.html#offene-themen",
     "href": "index.html#offene-themen",
     "title": "Abschluss- und Projektarbeiten",
     "section": "Offene Themen",
-    "text": "Offene Themen\n\nErkennung von Objekten mittels Semantischer Segmentierung\nGreifen von Objekten mittels Reinforcement Learning\nImplementierung einer ROS-Softwarekomponente zur Ansteuerung eines Roboterarms\nGreifen von bewegten Objekten"
+    "text": "Offene Themen\n\n\n\nTitel\nBetreuer\nLink\n\n\n\n\nErkennung von Objekten mittels Semantischer Segmentierung\nProf. Dr. Enrico Schröder\nPDF\n\n\nGreifen von Objekten mittels Reinforcement Learning\nProf. Dr. Enrico Schröder\nPDF\n\n\nImplementierung einer ROS-Softwarekomponente zur Ansteuerung eines Roboterarms\nProf. Dr. Enrico Schröder\nPDF\n\n\nGreifen von bewegten Objekten\nProf. Dr. Enrico Schröder\nPDF"
   }
 ]

@@ -4,14 +4,15 @@ date: today
 date-format: "DD.MM.YYYY"
 ---
 
-Hier finden Sie eine Übersicht der aktuellen Abschluss- und Projektarbeiten von Prof. Schröder, Fakultät efi, OHM Technische Hochschule Nürnberg.
+Hier finden Sie eine Übersicht der aktuellen Abschluss- und Projektarbeiten des Labors für Mobile Robotik der TH Nürnberg
 
 Soweit nicht anders angegeben, können alle Themen als Bachelor- oder Masterarbeit bearbeitet werden, sowie als Projektarbeit.
 
 ## Offene Themen
-* [Erkennung von Objekten mittels Semantischer
-Segmentierung](build/2025_03_semseg.pdf)
-* [Greifen von Objekten mittels Reinforcement Learning](build/2025_03_rl_grasping.pdf)
-* [Implementierung einer ROS-Softwarekomponente zur
-Ansteuerung eines Roboterarms](build/2025_03_armcontroller.pdf)
-* [Greifen von bewegten Objekten](build/2025_03_greifen_bewegte_objekte.pdf)
+
+| Titel | Betreuer | Link |
+|-------|----------|------|
+| Erkennung von Objekten mittels Semantischer Segmentierung | Prof. Dr. Enrico Schröder | [PDF](build/2025_03_semseg.pdf) |
+| Greifen von Objekten mittels Reinforcement Learning | Prof. Dr. Enrico Schröder | [PDF](build/2025_03_rl_grasping.pdf) |
+| Implementierung einer ROS-Softwarekomponente zur Ansteuerung eines Roboterarms | Prof. Dr. Enrico Schröder | [PDF](build/2025_03_armcontroller.pdf) |
+| Greifen von bewegten Objekten | Prof. Dr. Enrico Schröder | [PDF](build/2025_03_greifen_bewegte_objekte.pdf) |
