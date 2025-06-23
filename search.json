@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Abschluss- und Projektarbeiten",
@@ -18,6 +11,13 @@
     "href": "index.html#offene-themen",
     "title": "Abschluss- und Projektarbeiten",
     "section": "Offene Themen",
-    "text": "Offene Themen\n\n\n\nTitel\nBetreuer\nLink\n\n\n\n\nErkennung von Objekten mittels Semantischer Segmentierung\nProf. Dr. Enrico Schröder\nPDF\n\n\nGreifen von Objekten mittels Reinforcement Learning\nProf. Dr. Enrico Schröder\nPDF\n\n\nImplementierung einer ROS-Softwarekomponente zur Ansteuerung eines Roboterarms\nProf. Dr. Enrico Schröder\nPDF\n\n\nGreifen von bewegten Objekten\nProf. Dr. Enrico Schröder\nPDF"
+    "text": "Offene Themen\n\n\n\nTitel\nBetreuer\nLink\n\n\n\n\nIntelligenter Begleitroboter für das Klinikum Nürnberg\nProf. Dr. Stefan May\nPDF\n\n\nErkennung von Objekten mittels Semantischer Segmentierung\nProf. Dr. Enrico Schröder\nPDF\n\n\nGreifen von Objekten mittels Reinforcement Learning\nProf. Dr. Enrico Schröder\nPDF\n\n\nImplementierung einer ROS-Softwarekomponente zur Ansteuerung eines Roboterarms\nProf. Dr. Enrico Schröder\nPDF\n\n\nGreifen von bewegten Objekten\nProf. Dr. Enrico Schröder\nPDF"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]

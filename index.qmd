@@ -12,6 +12,7 @@ Soweit nicht anders angegeben, können alle Themen als Bachelor- oder Masterarbe
 
 | Titel | Betreuer | Link |
 |-------|----------|------|
+| Intelligenter Begleitroboter für das Klinikum Nürnberg | Prof. Dr. Stefan May | [PDF](build/2025_06_patientenassistenz.pdf) |
 | Erkennung von Objekten mittels Semantischer Segmentierung | Prof. Dr. Enrico Schröder | [PDF](build/2025_03_semseg.pdf) |
 | Greifen von Objekten mittels Reinforcement Learning | Prof. Dr. Enrico Schröder | [PDF](build/2025_03_rl_grasping.pdf) |
 | Implementierung einer ROS-Softwarekomponente zur Ansteuerung eines Roboterarms | Prof. Dr. Enrico Schröder | [PDF](build/2025_03_armcontroller.pdf) |
