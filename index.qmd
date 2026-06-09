@@ -17,3 +17,10 @@ Soweit nicht anders angegeben, können alle Themen als Bachelor- oder Masterarbe
 | <s>Greifen von Objekten mittels Reinforcement Learning</s> (in Bearbeitung) | Prof. Dr. Enrico Schröder | [PDF](build/2025_03_rl_grasping.pdf) |
 | Autonomous Paradrone | Prof. Dr. Enrico Schröder | [PDF](build/2026_06_autonomous_paradrone.pdf) |
 | AI-based Processing of Traffic Monitoring Footage | Prof. Dr. Enrico Schröder | [PDF](build/2026_06_traffic_monitoring.pdf) |
+| Drone Charging Setup – Automatisiertes drahtloses Laden von Micro-Drohnen | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_crazyflies_charging.pdf) |
+| Drone Light Painting – Koordinierte Lichtbilderzeugung mit Micro-Drohnen | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_crazyflies_light_painting.pdf) |
+| Drone Swarm Obstacle Avoidance – Kollisionsfreie Navigation von Micro-Drohnen | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_crazyflies_obstacle_swarm.pdf) |
+| Fallstudie zum Einsatz von neuen Technologien in Unternehmen (TTZ Nürnberger Land) | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_ttz_fallstudie_robotik.pdf) |
+| 2R-Roboterarm als Praktikumsversuch – Gravity Compensation und Reinforcement Learning | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_2r_roboterarm.pdf) |
+| M-APR: Emergente Systeme in der Produktion (TTZ Nürnberger Land) | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_mapr_emergente_systeme.pdf) |
+| M-APR: Handling von flexiblen Materialien mithilfe von Roboterarmen (TTZ Nürnberger Land) | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_mapr_flexible_materialien.pdf) |
