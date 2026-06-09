@@ -1,0 +1,63 @@
+\documentclass{ohm_project_description}
+
+\projecttitle{Robocup Smart Manufacturing League (SML)}
+\projectauthor{Labor für mobile Robotik}
+\projectdate{2025}
+
+\begin{document}
+
+\maketitle
+\thispagestyle{fancy}
+
+\vspace*{-2.5cm}
+\begin{figure}[h!]
+    \centering
+    \includegraphics[height=4cm]{img/atwork.jpg}
+\end{figure} 
+
+
+This project proposal lists various potential project topics in the area of smart manufacturing applications and the new Robocup Smart Manufacturing League (SML). The specific topic will be determined in consultation with the supervisor, based on the interests and skills of the students.\\
+
+For reference, the Robocup Smart Manufacturing League (SML) - Embodied Autonomous Intelligence concept paper can be found here: \url{https://github.com/robocup-sml/sml-embodied-autonomous-intelligence}.\\
+
+Possible topics include, but are not limited to:
+
+\begin{itemize}[leftmargin=0.5cm]
+    \setlength\itemsep{.5em}
+    \item \textbf{Topic 1: Autonomous robotic assembly} \\
+        \textit{Task:} Assemble the products (Lego duplo) of the new Robocup Smart Manufacturing League (SML) using a robotic arm (or dual arm setup). \\
+        \textit{Subtasks:} 3D vision model, Arm Controls, Assembly sequence statemachine
+
+    \item \textbf{Topic 2: Imitation learning for product assembly} \\
+        \textit{Task:} Develop a system that observes a human that assembles a product, derive required actions \\
+        \textit{Subtasks:} VLA investigation and training, post-processing, mapping to robotic actions (see Topic 1)
+
+    \item \textbf{Topic 3: Planning simulator for heterogeneous robotic fleets} \\
+        \textit{Task:} Develop a lightweight planning simulation where the task sequences can be displayed easily. \\
+        \textit{Subtasks:} Efficient game environment (pygame is only single core, needed for laser sim), map building/loader, agent simulator \\
+        \textit{Comment:} See e.g. 'Overcooked' or 'Ohm\_mecanum\_sim'
+
+    \item \textbf{Topic 4: Planning framework for heterogeneous robotic fleets} \\
+        \textit{Task:} Develop a framework that decomposes orders and arena layouts into efficient action sequences, tailored to diverse robotic agents. \\
+        \textit{Subtasks:} Formulate capability descriptions/interfaces, create a greedy planner (e.g. nearest neighbor to start), implement "missing skills" detection mechanism \\
+        \textit{Comment:} Plan for e.g. one humanoid, or one box-transport + human operator robot, when both fleets get the same task 'produce the carrot'
+
+    \item \textbf{Topic 5: Own ideas for SML} \\
+        \textit{Task:} Read the Robocup Smart Manufacturing League (SML) - Embodied Autonomous Intelligence concept paper and develop your own idea \\
+        \textit{Subtasks:} Identify problems, formulate ideas, map onto robot hw+sw
+\end{itemize}
+
+
+\vspace{0.5cm}
+These topics can be pursued as a Bachelor's or Master's thesis or as a project work for two to three students.
+
+
+\vfill
+\textcolor{ohm_red}{\rule{\linewidth}{0.4mm}}
+\textbf{\textcolor{ohm_red}{Labor für mobile Robotik}} \\
+\begin{tabular}{@{}ll}
+\textbf{Supervisor:} & Prof. Dr. Enrico Schröder \\
+\textbf{E-Mail:}   & \href{mailto:enrico.schroeder@th-nuernberg.de}{enrico.schroeder@th-nuernberg.de} \\
+\end{tabular}
+
+\end{document}
