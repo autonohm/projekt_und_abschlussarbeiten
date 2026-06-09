@@ -12,9 +12,9 @@ Soweit nicht anders angegeben, können alle Themen als Bachelor- oder Masterarbe
 
 | Titel | Betreuer | Link |
 |-------|----------|------|
-| Intelligenter Begleitroboter für das Klinikum Nürnberg | Prof. Dr. Stefan May | [PDF](build/2025_06_patientenassistenz.pdf) |
-| <s>Erkennung von Objekten mittels Semantischer Segmentierung</s> (in Bearbeitung) | Prof. Dr. Enrico Schröder | [PDF](build/2025_03_semseg.pdf) |
-| <s>Greifen von Objekten mittels Reinforcement Learning</s> (in Bearbeitung) | Prof. Dr. Enrico Schröder | [PDF](build/2025_03_rl_grasping.pdf) |
 | Autonomous Paradrone | Prof. Dr. Enrico Schröder | [PDF](build/2026_06_autonomous_paradrone.pdf) |
 | AI-based Processing of Traffic Monitoring Footage | Prof. Dr. Enrico Schröder | [PDF](build/2026_06_traffic_monitoring.pdf) |
 | Robocup Smart Manufacturing League (SML) | Prof. Dr. Enrico Schröder | [PDF](build/2026_06_smart_manufacturing_applications.pdf) |
+| Intelligenter Begleitroboter für das Klinikum Nürnberg | Prof. Dr. Stefan May | [PDF](build/2025_06_patientenassistenz.pdf) |
+| <s>Erkennung von Objekten mittels Semantischer Segmentierung</s> (in Bearbeitung) | Prof. Dr. Enrico Schröder | [PDF](build/2025_03_semseg.pdf) |
+| <s>Greifen von Objekten mittels Reinforcement Learning</s> (in Bearbeitung) | Prof. Dr. Enrico Schröder | [PDF](build/2025_03_rl_grasping.pdf) |
