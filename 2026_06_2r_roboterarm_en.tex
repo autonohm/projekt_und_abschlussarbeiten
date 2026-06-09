@@ -1,0 +1,49 @@
+\documentclass{ohm_project_description}
+\usepackage[english]{babel}
+
+\projecttitle{2R Robot Arm Lab Experiment – Gravity Compensation and Reinforcement Learning}
+\projectauthor{Mobile Robotics Lab}
+\projectdate{2026}
+
+\begin{document}
+
+\maketitle
+\thispagestyle{fancy}
+
+The M-IAS (Intelligent Autonomous Systems) master's programme at TH Nürnberg requires a new lab experiment for the ``Intelligent Robotics'' practical course that demonstrates fundamental concepts of control theory and machine learning in a hands-on setting. The goal of this thesis is to build a two-link robot arm (2R kinematics) based on two BLDC motors, serving as a versatile demonstration platform for \textbf{gravity compensation} and \textbf{reinforcement learning}.
+
+On the hardware side, both joints are to be equipped with BLDC motors and suitable motor drivers (e.g.\ ODrive or VESC). The mechanical structure of the arm segments is to be designed and manufactured. On the software side, forward and inverse kinematics are to be implemented along with model-based gravity compensation that keeps the arm floating in any position. Building on this, a reinforcement learning demo is to be developed where an agent learns to move the arm to a target position, using a ROS-based architecture supporting both real hardware and simulation (Gazebo or MuJoCo). Lab instructions for student use are to be prepared.
+
+\section*{Work Packages}
+\begin{itemize}[leftmargin=0.5cm]
+    \setlength\itemsep{.1em}
+    \item Selection and commissioning of BLDC motors and motor drivers
+    \item Mechanical design and fabrication of arm segments (CAD, 3D printing)
+    \item Implementation of forward/inverse kinematics and gravity compensation
+    \item ROS integration and building a simulation environment (Gazebo / MuJoCo)
+    \item Training an RL agent (e.g.\ PPO/SAC) and sim-to-real transfer
+    \item Creating lab instructions for use in the M-IAS practical course
+\end{itemize}
+
+\section*{Requirements}
+\begin{itemize}[leftmargin=0.5cm]
+    \setlength\itemsep{.1em}
+    \item Knowledge of control theory and robotics (kinematics, dynamics)
+    \item Programming skills in Python and/or C++
+    \item Ideally experience with ROS
+    \item Interest in machine learning and reinforcement learning
+    \item Enthusiasm for hands-on hardware work and prototyping
+\end{itemize}
+
+\vspace{0.5cm}
+This topic can be completed as a \textbf{project or master's thesis} subject to agreement.
+
+\vfill
+\textcolor{ohm_red}{\rule{\linewidth}{0.4mm}}
+\textbf{\textcolor{ohm_red}{Mobile Robotics Lab}} \\
+\begin{tabular}{@{}ll}
+\textbf{Supervisor:} & Prof. Dr. Christian Pfitzner \\
+\textbf{E-Mail:}     & \href{mailto:christian.pfitzner@th-nuernberg.de}{christian.pfitzner@th-nuernberg.de} \\
+\end{tabular}
+
+\end{document}
