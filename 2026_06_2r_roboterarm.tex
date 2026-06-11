@@ -1,0 +1,48 @@
+\documentclass{ohm_project_description}
+
+\projecttitle{2R-Roboterarm als Praktikumsversuch – Gravity Compensation und Reinforcement Learning}
+\projectauthor{Labor für mobile Robotik}
+\projectdate{2026}
+
+\begin{document}
+
+\maketitle
+\thispagestyle{fancy}
+
+Im Masterstudiengang M-IAS (Intelligent Autonomous Systems) an der TH Nürnberg wird im Rahmen des Praktikums „Intelligent Robotics" ein neuer Versuchsaufbau benötigt, der grundlegende Konzepte der Regelungstechnik und des maschinellen Lernens demonstriert. Ziel dieser Arbeit ist der Aufbau eines zweiachsigen Roboterarms (2R-Kinematik), der auf zwei BLDC-Motoren basiert und als vielseitige Demonstrationsplattform für \textbf{Gravity Compensation} und \textbf{Reinforcement Learning} dient.
+
+Auf der Hardwareseite sind die beiden Gelenke mit BLDC-Motoren und geeigneten Motortreibern (z.\,B.\ ODrive oder VESC) auszustatten. Die mechanische Struktur der Armsegmente ist zu entwerfen und zu fertigen. Softwareseitig sind Vorwärts- und Rückwärtskinematik zu implementieren sowie eine modellbasierte Gravity-Compensation, die das Eigengewicht der Armsegmente in Echtzeit kompensiert. Darauf aufbauend entsteht eine Reinforcement-Learning-Demo, bei der ein Agent den Arm auf eine Zielposition einlernt. Abschließend sind Versuchsanleitungen für den Praktikumseinsatz zu erstellen.
+
+\section*{Arbeitspakete}
+\begin{itemize}[leftmargin=0.5cm]
+    \setlength\itemsep{.1em}
+    \item Auswahl und Inbetriebnahme der BLDC-Motoren und Motortreiber
+    \item Mechanischer Entwurf und Fertigung der Armsegmente (CAD, 3D-Druck)
+    \item Implementierung von Vorwärts-/Rückwärtskinematik und Gravity Compensation
+    \item ROS-Integration und Aufbau einer Simulationsumgebung (Gazebo / MuJoCo)
+    \item Training eines RL-Agenten (z.\,B.\ PPO/SAC) und Sim-to-Real-Transfer
+    \item Erstellung von Versuchsanleitungen für den Praktikumseinsatz
+\end{itemize}
+
+\section*{Voraussetzungen}
+\begin{itemize}[leftmargin=0.5cm]
+    \setlength\itemsep{.1em}
+    \item Kenntnisse in Regelungstechnik und Robotik (Kinematik, Dynamik)
+    \item Programmierkenntnisse in Python und/oder C++
+    \item Idealerweise Erfahrung mit ROS
+    \item Interesse an maschinellem Lernen und Reinforcement Learning
+    \item Freude an praktischem Hardware-Aufbau und Prototyping
+\end{itemize}
+
+\vspace{0.5cm}
+Das Thema kann nach Abstimmung als \textbf{Projekt- oder Masterarbeit} bearbeitet werden.
+
+\vfill
+\textcolor{ohm_red}{\rule{\linewidth}{0.4mm}}
+\textbf{\textcolor{ohm_red}{Labor für mobile Robotik}} \\
+\begin{tabular}{@{}ll}
+\textbf{Betreuer:} & Prof. Dr. Christian Pfitzner \\
+\textbf{E-Mail:}   & \href{mailto:christian.pfitzner@th-nuernberg.de}{christian.pfitzner@th-nuernberg.de} \\
+\end{tabular}
+
+\end{document}
