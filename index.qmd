@@ -26,3 +26,4 @@ Soweit nicht anders angegeben, können alle Themen als Bachelor- oder Masterarbe
 | M-APR: Emergente Systeme in der Produktion (TTZ) | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_mapr_emergente_systeme_en.pdf) |
 | M-APR: Handling flexibler Materialien (TTZ) | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_mapr_flexible_materialien_en.pdf) |
 | Mini-Roboter mit Mecanum-Antrieb | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_mini_roboter_mecanum_en.pdf) |
+| Markerlose Indoor-Lokalisierung einer Drohne | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_drohne_indoor_lokalisierung_en.pdf) |
