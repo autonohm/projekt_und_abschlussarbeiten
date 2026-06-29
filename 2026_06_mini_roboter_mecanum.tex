@@ -1,0 +1,61 @@
+\documentclass{ohm_project_description}
+
+\projecttitle{Entwicklung eines mobilen Mini-Roboters}
+\projectauthor{Labor für mobile Robotik}
+\projectdate{2026}
+
+\begin{document}
+
+\maketitle
+\thispagestyle{fancy}
+
+Im Rahmen dieser Projektarbeit wird ein fahrbarer Mini-Roboter als Entwicklungs- und
+Schulungsplattform konzipiert, aufgebaut und getestet. Ausgehend von einem bestehenden
+Roboterkonzept entsteht eine eigenständige, mechanisch und elektrisch robuste Variante,
+die kostengünstig nachgebaut werden kann – Materialkosten unter 1.000\,€ je Exemplar.
+Der Roboter verfügt über einen omnidirektionalen Antrieb mit vier Mecanum-Rädern,
+eine wiederaufladbare Energieversorgung mit mehreren Bordspannungen sowie eine
+leistungsfähige Einplatinen-Steuerung mit aktiver Kühlung. Zur Umfelderkennung ist
+ein 360°-LiDAR integriert; optional kann eine Tiefenkamera ergänzt werden. Die
+Bedienung erfolgt wahlweise per Bluetooth-Controller oder installationsfreiem
+Web-Interface vom Tablet.
+
+\section*{Arbeitspakete}
+\begin{itemize}[leftmargin=0.5cm]
+    \setlength\itemsep{.1em}
+    \item Konstruktion des mechanischen Aufbaus (mehrstöckige Aluminiumstruktur,
+          Komponentenmontage mit niedrigem Schwerpunkt)
+    \item Auswahl, Beschaffung und elektrische Integration der Komponenten
+          (Antrieb, Energieversorgung mit DC-DC-Wandlung, Ladekonzept)
+    \item Inbetriebnahme der Motorsteuerung und des omnidirektionalen Fahrantriebs
+          (Mecanum-Räder, modulare Treiberplatinen)
+    \item Integration und Test der Sensorik und Ausgabemedien (360°-LiDAR, Display,
+          Lautsprecher, optional Tiefenkamera)
+    \item Implementierung der Bedienschnittstellen (Bluetooth-Controller, Web-Interface,
+          Datenspeicherung auf externem Datenträger)
+    \item Dokumentation für den Nachbau sowie Kostenanalyse für die spätere
+          Serienfertigung
+\end{itemize}
+
+\section*{Voraussetzungen}
+\begin{itemize}[leftmargin=0.5cm]
+    \setlength\itemsep{.1em}
+    \item Interesse an mobiler Robotik und praktischem Systemaufbau
+    \item Grundkenntnisse aus Elektrotechnik (Schaltungsaufbau, Energieversorgung)
+    \item Grundkenntnisse CAD
+    \item Grundkenntnisse in Programmierung (Python oder C++ hilfreich)
+\end{itemize}
+
+\vspace{0.5cm}
+Das Thema kann nach Abstimmung als \textbf{Projektarbeit} (4 Studierende, ca.\ 4 Monate)
+bearbeitet werden.
+
+\vfill
+\textcolor{ohm_red}{\rule{\linewidth}{0.4mm}}
+\textbf{\textcolor{ohm_red}{Labor für mobile Robotik}} \\
+\begin{tabular}{@{}ll}
+\textbf{Betreuer:} & Prof.\ Dr.\ Christian Pfitzner \\
+\textbf{E-Mail:}   & \href{mailto:christian.pfitzner@th-nuernberg.de}{christian.pfitzner@th-nuernberg.de} \\
+\end{tabular}
+
+\end{document}

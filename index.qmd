@@ -18,12 +18,12 @@ Soweit nicht anders angegeben, können alle Themen als Bachelor- oder Masterarbe
 | Intelligenter Begleitroboter für das Klinikum Nürnberg | Prof. Dr. Stefan May | [PDF](build/2025_06_patientenassistenz.pdf) |
 | <s>Erkennung von Objekten mittels Semantischer Segmentierung</s> (in Bearbeitung) | Prof. Dr. Enrico Schröder | [PDF](build/2025_03_semseg.pdf) |
 | <s>Greifen von Objekten mittels Reinforcement Learning</s> (in Bearbeitung) | Prof. Dr. Enrico Schröder | [PDF](build/2025_03_rl_grasping.pdf) |
-| Autonomous Paradrone | Prof. Dr. Enrico Schröder | [PDF](build/2026_06_autonomous_paradrone.pdf) |
-| AI-based Processing of Traffic Monitoring Footage | Prof. Dr. Enrico Schröder | [PDF](build/2026_06_traffic_monitoring.pdf) |
-| Drone Charging Setup | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_crazyflies_charging_en.pdf) |
+| <s>Drone Charging Setup</s> (reserviert) | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_crazyflies_charging_en.pdf) |
 | Drone Light Painting | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_crazyflies_light_painting_en.pdf) |
-| Drone Swarm Obstacle Avoidance | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_crazyflies_obstacle_swarm_en.pdf) |
+| <s>Drone Swarm Obstacle Avoidance</s> (reserviert) | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_crazyflies_obstacle_swarm_en.pdf) |
 | Fallstudie Technologien in Unternehmen (TTZ) | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_ttz_fallstudie_robotik_en.pdf) |
 | 2R-Roboterarm: Gravity Compensation & Reinforcement Learning | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_2r_roboterarm_en.pdf) |
 | M-APR: Emergente Systeme in der Produktion (TTZ) | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_mapr_emergente_systeme_en.pdf) |
 | M-APR: Handling flexibler Materialien (TTZ) | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_mapr_flexible_materialien_en.pdf) |
+| <s>Mini-Roboter mit Mecanum-Antrieb</s> (reserviert) | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_mini_roboter_mecanum_en.pdf) |
+| <s>Markerlose Indoor-Lokalisierung einer Drohne</s> (reserviert) | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_drohne_indoor_lokalisierung_en.pdf) |
