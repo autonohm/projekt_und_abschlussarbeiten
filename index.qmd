@@ -27,3 +27,4 @@ Soweit nicht anders angegeben, können alle Themen als Bachelor- oder Masterarbe
 | M-APR: Handling flexibler Materialien (TTZ) | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_mapr_flexible_materialien_en.pdf) |
 | <s>Mini-Roboter mit Mecanum-Antrieb</s> (reserviert) | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_mini_roboter_mecanum_en.pdf) |
 | <s>Markerlose Indoor-Lokalisierung einer Drohne</s> (reserviert) | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_drohne_indoor_lokalisierung_en.pdf) |
+| Robocup@Home (Autonomous Service Robot) | Prof. Dr. Enrico Schröder | [PDF](build/2026_10_robocup_home.pdf) |
