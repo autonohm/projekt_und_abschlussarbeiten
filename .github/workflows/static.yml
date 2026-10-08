@@ -29,8 +29,19 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          # To install LaTeX to build PDF book 
+          tinytex: false 
+          # uncomment below and fill to pin a version
+          version: 1.10.19
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Render Quarto Project
+        uses: quarto-dev/quarto-actions/render@v2
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
