@@ -27,7 +27,7 @@ Soweit nicht anders angegeben, können alle Themen als Bachelor- oder Masterarbe
 | <s>Mini-Roboter mit Mecanum-Antrieb</s> (reserviert) | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_mini_roboter_mecanum_en.pdf) |
 | <s>Markerlose Indoor-Lokalisierung einer Drohne</s> (reserviert) | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_drohne_indoor_lokalisierung_en.pdf) |
 
-## Themen in Bearbeitung
+## Themen in Bearbeitung und abgeschlossene Arbeiten
 
 | Titel | Betreuer | Link | Ergebnisse |
 |-------|----------|------|------------|
