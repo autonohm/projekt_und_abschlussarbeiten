@@ -13,12 +13,10 @@ Soweit nicht anders angegeben, können alle Themen als Bachelor- oder Masterarbe
 | Titel | Betreuer | Link |
 |-------|----------|------|
 | Robocup@Home (Autonomous Service Robot) | Prof. Dr. Enrico Schröder | [PDF](build/2026_10_autonomous_service_robot.pdf) |
-| Autonomous Paradrone | Prof. Dr. Enrico Schröder | [PDF](build/2026_06_autonomous_paradrone.pdf) |
+| <s>Autonomous Paradrone</s> (reserviert) | Prof. Dr. Enrico Schröder | [PDF](build/2026_06_autonomous_paradrone.pdf) |
 | AI-based Processing of Traffic Monitoring Footage | Prof. Dr. Enrico Schröder | [PDF](build/2026_06_traffic_monitoring.pdf) |
 | Robocup Smart Manufacturing League (SML) | Prof. Dr. Enrico Schröder | [PDF](build/2026_06_smart_manufacturing_applications.pdf) |
 | Intelligenter Begleitroboter für das Klinikum Nürnberg | Prof. Dr. Stefan May | [PDF](build/2025_06_patientenassistenz.pdf) |
-| <s>Erkennung von Objekten mittels Semantischer Segmentierung</s> (in Bearbeitung) | Prof. Dr. Enrico Schröder | [PDF](build/2025_03_semseg.pdf) |
-| <s>Greifen von Objekten mittels Reinforcement Learning</s> (in Bearbeitung) | Prof. Dr. Enrico Schröder | [PDF](build/2025_03_rl_grasping.pdf) |
 | <s>Drone Charging Setup</s> (reserviert) | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_crazyflies_charging_en.pdf) |
 | Drone Light Painting | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_crazyflies_light_painting_en.pdf) |
 | <s>Drone Swarm Obstacle Avoidance</s> (reserviert) | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_crazyflies_obstacle_swarm_en.pdf) |
@@ -28,3 +26,10 @@ Soweit nicht anders angegeben, können alle Themen als Bachelor- oder Masterarbe
 | M-APR: Handling flexibler Materialien (TTZ) | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_mapr_flexible_materialien_en.pdf) |
 | <s>Mini-Roboter mit Mecanum-Antrieb</s> (reserviert) | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_mini_roboter_mecanum_en.pdf) |
 | <s>Markerlose Indoor-Lokalisierung einer Drohne</s> (reserviert) | Prof. Dr. Christian Pfitzner | [PDF](build/2026_06_drohne_indoor_lokalisierung_en.pdf) |
+
+## Themen in Bearbeitung
+
+| Titel | Betreuer | Link | Ergebnisse |
+|-------|----------|------|------------|
+| Erkennung von Objekten mittels Semantischer Segmentierung | Prof. Dr. Enrico Schröder | [PDF](build/2025_03_semseg.pdf) | tbd |
+| Greifen von Objekten mittels Reinforcement Learning | Prof. Dr. Enrico Schröder | [PDF](build/2025_03_rl_grasping.pdf) | tbd |

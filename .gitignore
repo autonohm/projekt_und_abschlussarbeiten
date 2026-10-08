@@ -310,3 +310,7 @@ TSWLatexianTemp*
 
 /.quarto/
 **/*.quarto_ipynb
+
+site_libs/**
+*.html
+search.json
